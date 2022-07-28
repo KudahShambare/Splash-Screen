@@ -1,4 +1,17 @@
 *{
     background-color: black;
     color: white;
+    text-align: center;
+}
+#splash{
+    z-index: 120;
+    position: fixed;
+   line-height: 150vh;
+   height: 100vh;
+   width: 100vw;
+top: 0%;
+   font-size: x-large;
+   background-color: azure;
+
+
 }
